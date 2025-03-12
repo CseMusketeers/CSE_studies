@@ -3,7 +3,9 @@ A repo for all things to share and study related
 
 ## Unsere Ressourcen
 Auf folgende Online Kursplattformen oder Repos haben wir Zugriff. Bei Lernportalen ist der Benutzername immer die csedevver@gmail.com Email. 
-Ihr seid alle dazu eingeladen diese zu nutzen und ggf. die Liste zu erweitern:
+Die Anmeldedaten habt ihr bereits für alle Platformen erhalten, wenn nicht einfach erfragen.
+
+Ihr seid alle dazu eingeladen alle Ressourcen zu nutzen und ggf. die Liste dieser zu erweitern:
 
 1. [**Udemy**](https://www.udemy.com/de/): Einige Kurse bereits vorhanden und andere müssten gekauft werden.
 2. [**Coursera**](https://www.coursera.org/): Ab start eine Woche frei, dann 47€/Monat für ALLE Kurse
